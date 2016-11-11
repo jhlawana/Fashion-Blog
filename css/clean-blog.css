@@ -388,6 +388,7 @@ form .row:first-child .floating-label-form-group {
   background: #0085A1;
 }
 img::selection {
+  -webkit-filter: blur(6px);
   color: white;
   background: transparent;
 }
